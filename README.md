@@ -5,8 +5,9 @@
 
 ### 🧭 Qui suis-je ?
 🎓 Étudiante en Licence Pro – Technologie Informatique de Gestion  
-💡 Passionnée par le développement web, le génie logiciel et l’analyse métier  
-🎯 Objectif : Créer des solutions numériques utiles et centrées métier
+💡 Intéressée par le **développement web**, le **génie logiciel** et les **analyses fonctionnelles métier**  
+🎯 Objectif : fusionner **technique** et **compréhension métier** pour construire des solutions utiles et performantes  
+🔍 En quête constante d'apprentissage et d'amélioration continue
 
 ---
 
@@ -24,9 +25,31 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lawsondjeckylaurenne&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawsondjeckylaurenne&layout=compact&theme=radical" alt="Langues" />
+</p>
+
+---
+
+### 🤝 Je suis ouverte à :
+- Collaborer sur des projets web ou mobile 📱
+- Discuter autour du développement et des métiers de la tech ☕
+- Apprendre des autres et échanger des bonnes pratiques 💬
+
+---
+
 
 ### 🔗 Me retrouver ailleurs
 
 📫 **Email :** lawsondjeckylaurenne@gmail.com 
+
 💼 **LinkedIn :** [linkedin.com/in/lawson-djeckylaurenne](https://linkedin.com/lawson-djeckylaurenne)  
+
 🌐 **Portfolio (prochainement)**  
+
+---
+
+> “La technologie ne vaut que si elle résout un vrai problème.” – 💡
